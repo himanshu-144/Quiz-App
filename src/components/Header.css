@@ -1,0 +1,26 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Noto+Sans:wght@100&family=Poppins:wght@300&family=Raleway:ital,wght@1,100;1,200&family=Roboto:ital,wght@0,400;0,500;1,500&family=Sono:wght@300;400;500&family=Source+Sans+Pro:wght@300;400&display=swap');
+
+.header{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+.title{
+    text-transform: uppercase;
+    font-size: 45px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+.hr{
+   
+   width: 100%;
+   border: 1.8px solid rgb(255, 0, 0);
+   
+    
+}
+a{
+    text-decoration: none;
+}
